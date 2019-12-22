@@ -6,6 +6,7 @@
 
 #рабочий временный каталог
 [string]$tmp = "$curDir\temp"
+[string]$arj32 ="$curDir\util\arj32.exe"
 
 #настройка почты
 [string]$311mailAddrFiz = "tmn-goe@tmn.apkbank.ru"
