@@ -1,6 +1,6 @@
 function ClearUI {
-	$bckgrnd = "DarkBlue"
-	$Host.UI.RawUI.BackgroundColor = $bckgrnd
+	Set-PSReadlineOption -ResetTokenColors
+	$Host.UI.RawUI.BackgroundColor = ($bckgrnd = 'DarkBlue')
 	$Host.UI.RawUI.ForegroundColor = 'White'
 	$Host.PrivateData.ErrorForegroundColor = 'Red'
 	$Host.PrivateData.ErrorBackgroundColor = $bckgrnd
@@ -10,8 +10,11 @@ function ClearUI {
 	$Host.PrivateData.DebugBackgroundColor = $bckgrnd
 	$Host.PrivateData.VerboseForegroundColor = 'Green'
 	$Host.PrivateData.VerboseBackgroundColor = $bckgrnd
+	$Host.PrivateData.ProgressForegroundColor = 'Cyan'
+	$Host.PrivateData.ProgressBackgroundColor = $bckgrnd
 	Clear-Host
 }
+
 
 #Проверяем существуют ли каталоги?
 function testDir($dirList) {
