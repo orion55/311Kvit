@@ -13,7 +13,6 @@ Set-Location $curDir
 Clear-Host
 
 [boolean]$flag311Fiz = $false
-[boolean]$flag311Jur = $false
 [string]$cur311Archive = ''
 [string]$kvit311Archive = ''
 [string]$kvit311ArchiveErr = ''
@@ -23,6 +22,18 @@ Clear-Host
 	sucCount = 0
 	allCount = 0
 }
+
+[boolean]$flag311Jur = $false
+[string]$cur311JurArchive = ''
+[string]$kvit311JurArchive = ''
+[string]$kvit311JurArchiveErr = ''
+[hashtable]$311Jur = @{
+	errCount = 0
+	sucCount = 0
+	allCount = 0
+	errFiles = @()
+}
+
 #копируем каталоги рекурсивно на "волшебный" диск А: - туда и обратно
 function copyDirs {
 	Param(
@@ -44,18 +55,18 @@ function init311Fiz {
 	$curDate = Get-Date -Format "ddMMyyyy"
 
 	[string]$global:cur311Archive = $311Archive + '\' + $curDate
-	if (!(Test-Path -Path $cur311Archive )) {
-		New-Item -ItemType directory $cur311Archive -Force | out-null
+	if (!(Test-Path -Path $global:cur311Archive )) {
+		New-Item -ItemType directory $global:cur311Archive -Force | out-null
 	}
 
 	[string]$global:kvit311Archive = $cur311Archive + '\' + 'KVIT'
-	if (!(Test-Path -Path $kvit311Archive )) {
-		New-Item -ItemType directory $kvit311Archive -Force | out-null
+	if (!(Test-Path -Path $global:kvit311Archive )) {
+		New-Item -ItemType directory $global:kvit311Archive -Force | out-null
 	}
 
 	[string]$global:kvit311ArchiveMsk = $311DirKvit + '\' + $curDate
-	if (!(Test-Path -Path $kvit311ArchiveMsk )) {
-		New-Item -ItemType directory $kvit311ArchiveMsk -Force | out-null
+	if (!(Test-Path -Path $global:kvit311ArchiveMsk )) {
+		New-Item -ItemType directory $global:kvit311ArchiveMsk -Force | out-null
 	}
 
 	$global:flag311Fiz = $true
@@ -74,6 +85,7 @@ function 311FizHandler {
 		$311Fiz.errCount = $errCount
 		[int]$sucCount = (Get-ChildItem "$tmpDir\SFF*.xml" | Measure-Object).Count
 		$311Fiz.sucCount += $sucCount
+
 		foreach ($curFile in $tmpFiles) {
 			$testFile = $curFile.FullName + '.test'
 			$arguments = "-verify -delete -1 -profile $profile -registry -in ""$($curFile.FullName)"" -out ""$testFile"" -silent $logSpki"
@@ -115,6 +127,98 @@ function 311FizHandler {
 		Write-Log -EntryType Error -Message "Ошибка при разархивация файла $($file.FullName)"
 	}
 }
+function init311Jur {
+	$curDate = Get-Date -Format "ddMMyyyy"
+
+	[string]$global:cur311JurArchive = $311JurArchive + '\' + $curDate
+	if (!(Test-Path -Path $global:cur311JurArchive )) {
+		New-Item -ItemType directory $cur311JurArchive -Force | out-null
+	}
+
+	[string]$global:kvit311JurArchive = $cur311JurArchive + '\' + 'KVIT'
+	if (!(Test-Path -Path $global:kvit311JurArchive )) {
+		New-Item -ItemType directory $global:kvit311JurArchive -Force | out-null
+	}
+
+	$global:flag311Jur = $true
+}
+function 311JurHandler {
+	Param($file)
+
+	[string]$typeFile = ''
+	if ($file -match $311MaskJur) {
+		$typeFile = 'ON'
+	}
+	elseif ($file -match $311MaskJur2) {
+		$typeFile = 'S0'
+	}
+
+	Write-Log -EntryType Information -Message "Разархивация файла $file"
+	$argList = "e -y $($file.FullName) $tmpDir"
+	Start-Process -FilePath $arj32 -ArgumentList $argList -Wait -NoNewWindow
+
+	$tmpFiles = Get-ChildItem "$tmpDir\*.xml"
+	[int]$allCount = ($tmpFiles | Measure-Object).Count
+	if ($allCount -gt 0) {
+		$311Jur.allCount += $allCount
+		foreach ($curFile in $tmpFiles) {
+			$testFile = $curFile.FullName + '.test'
+			$arguments = "-verify -delete -1 -profile $profile -registry -in ""$($curFile.FullName)"" -out ""$testFile"" -silent $logSpki"
+			Start-Process $spki $arguments -NoNewWindow -Wait
+			Write-Log -EntryType Information -Message "Снимаем подпись с файла $($curFile.Name)"
+
+			if (Test-Path $testFile) {
+				$msg = Remove-Item $($curFile.FullName) -Verbose -Force *>&1
+				Write-Log -EntryType Information -Message ($msg | Out-String)
+
+				$msg = Get-ChildItem $testFile | Rename-Item -NewName { $_.Name -replace '.test$', '' } -Verbose *>&1
+				Write-Log -EntryType Information -Message ($msg | Out-String)
+
+				Write-Log -EntryType Information -Message "Форматируем xml-файл $($curFile.Name)"
+				[xml]$xml = Get-Content $curFile
+				$xml.Save($curFile)
+
+				if ($typeFile -eq 'ON') {
+					if ($xml.Файл.Документ.РезОбр -eq 'Сообщение принято1') {
+						$311Jur.sucCount += 1
+					}
+					else {
+						$311Jur.errCount += 1
+						$311Jur.errFiles += $curFile
+					}
+				}
+				elseif ($typeFile -eq 'S0') {
+					if ($xml.Файл.Документ.Ошибки.КодОшибки -eq '000') {
+						$311Jur.sucCount += 1
+					}
+					else {
+						$311Jur.errCount += 1
+						$311Jur.errFiles += $curFile
+					}
+				}
+			}
+			else {
+				$msg = "С файла $($curFile.BaseName) не удалось снять подпись"
+				Write-Log -EntryType Error -Message $msg
+			}
+		}
+		if ($311Jur.errCount -gt 0) {
+			[string]$global:kvit311JurArchiveErr = $cur311JurArchive + '\' + 'KVITERR'
+			if (!(Test-Path -Path $global:kvit311JurArchiveErr )) {
+				New-Item -ItemType directory $global:kvit311JurArchiveErr -Force | out-null
+			}
+			$msg = $311Jur.errFiles | Move-Item -Destination $kvit311JurArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+			Write-Log -EntryType Information -Message ($msg | Out-String)
+		}
+		if ($311Jur.sucCount -gt 0) {
+			$msg = Move-Item -Path "$tmpDir\*.xml" -Destination $kvit311JurArchive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+			Write-Log -EntryType Information -Message ($msg | Out-String)
+		}
+	}
+	else {
+		Write-Log -EntryType Error -Message "Ошибка при разархивация файла $($file.FullName)"
+	}
+}
 
 Start-HostLog -LogLevel Information
 Start-FileLog -LogLevel Information -FilePath $logName -Append
@@ -125,7 +229,7 @@ testFiles(@($arj32))
 
 if ($debug) {
 	Remove-Item -Path "$noticePath\*.*"
-	Copy-Item -Path "$curDir\OUT1\*.*" -Destination $noticePath
+	Copy-Item -Path "$curDir\temp\OUT1\*.*" -Destination $noticePath
 }
 
 $findFiles = Get-ChildItem -Path $noticePath | Where-Object { ! $_.PSIsContainer } | Where-Object { ($_.Name -match $311MaskFiz) -or ($_.Name -match $311MaskJur) -or ($_.Name -match $311MaskJur2) }
@@ -175,12 +279,17 @@ ForEach ($file in $findFiles) {
 		Write-Log -EntryType Information -Message ($msg | Out-String)
 	}
 	if (($file -match $311MaskJur) -or ($file -match $311MaskJur2)) {
-		#$result = 311Handler -file $file
+		if (!$flag311Jur) {
+			init311Jur
+		}
+		311JurHandler -file $file
 
+		$msg = Move-Item -Path $($file.FullName) -Destination $cur311JurArchive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+		Write-Log -EntryType Information -Message ($msg | Out-String)
 	}
-	#sendEmail -result $result
 }
 
+#sendEmail -result $result
 #Remove-Item $tmpDir -Force -Recurse
 
 Write-Log -EntryType Information -Message "Загружаем исходную ключевую дискету"

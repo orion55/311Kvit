@@ -1,12 +1,12 @@
 ﻿[string]$curDir = Split-Path -Path $myInvocation.MyCommand.Path -Parent
 [boolean]$debug = $true
 
-#каталог с извещениями
-[string]$noticePath = "$curDir\OUT"
-
 #рабочий временный каталог
 [string]$tmp = "$curDir\temp"
 [string]$arj32 ="$curDir\util\arj32.exe"
+
+#каталог с извещениями
+[string]$noticePath = "$tmp\OUT"
 
 #настройка почты
 [string]$311mailAddrFiz = "tmn-goe@tmn.apkbank.ru"
