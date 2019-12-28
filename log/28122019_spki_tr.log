@@ -1,0 +1,3170 @@
+Текущее время: Sat Dec 28 21:35:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:31 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:32 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:34 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:35 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:36 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:41 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:42 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:43 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:44 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:48 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:49 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:51 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:53 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:55 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:35:57 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:35:58 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:41:21 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:41:23 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:42:52 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:20 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:21 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:23 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:24 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:25 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:26 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:28 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:30 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:31 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:32 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:34 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:36 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:52 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:58 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:43:59 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:21 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:46:22 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:46:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:41 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:43 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:44 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:47 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:48 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:49 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:51 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:52 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:53 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:54 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:55 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:56 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:58 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:46:59 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:47:14 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:47:36 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:47:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:47:50 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:47:51 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:48:18 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:19 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:20 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:22 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:23 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:24 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:25 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:26 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:30 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:31 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:32 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:34 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:35 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:47 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:51 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:48:52 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:26 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:30 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:31 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:32 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:34 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:35 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:41 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:42 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:43 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:51:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:52:00 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:52:02 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:52:04 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:52:06 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:52:07 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 21:55:10 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:11 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:13 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:14 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:15 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:16 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:17 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:19 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:20 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:21 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:22 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:23 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:24 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:25 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:28 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:30 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:41 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:55:47 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:41 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:42 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:43 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:47 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:48 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:49 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:50 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:51 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:53 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:54 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:55 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:56 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:56:57 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:57:19 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:57:44 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 21:57:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:26 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:28 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:30 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:31 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:34 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:35 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:36 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:41 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:42 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:43 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:44 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:09:48 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:10:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:10:41 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:05 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:06 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:07 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:09 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:10 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:11 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:12 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:13 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:14 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:16 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:17 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:18 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:19 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:20 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:21 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:23 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:24 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:25 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:15:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:16:48 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:16:50 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:17:32 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:35 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:36 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:42 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:43 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:44 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:47 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:49 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:50 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:51 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:52 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:54 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:57 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:17:58 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:18:00 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:18:01 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:42:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:30 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:31 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:32 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:34 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:36 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:37 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:42 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:43 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:44 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:47 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:49 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:51 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:53 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:54 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:42:57 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:42:58 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:46:57 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:46:58 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:46:59 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:01 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:02 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:03 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:04 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:05 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:06 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:08 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:09 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:10 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:11 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:12 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:14 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:15 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:16 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:17 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:20 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:22 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:23 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:47:25 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:47:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:51:20 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:21 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:22 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:23 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:25 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:26 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:27 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:28 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:30 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:32 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:33 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:34 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:35 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:36 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:38 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:39 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:40 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:42 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:45 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:46 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:51:48 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:51:49 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:52:59 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml" -out "D:\SKAD\311Kvit\tmp\SFE117102803_720320191226_288000021901063047_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:00 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091647_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:02 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021900091648_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:03 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF117102803_720320191226_288000021901063045_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:04 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091650_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:05 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091651_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:06 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091652_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:07 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091653_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:09 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091654_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:10 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091655_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:11 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091656_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:12 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091657_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:13 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021900091658_700.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:15 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063040_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:16 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063041_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:17 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063042_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:18 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063052_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:19 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml" -out "D:\SKAD\311Kvit\tmp\SFF217102803_720320191226_288000021901063053_700.xml.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:19:23 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:22 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBE017102803_720320191223_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Tue Dec 24 03:51:27 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:24 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF017102803_720320191226_288000021900000546_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:25 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML" -out "D:\SKAD\311Kvit\tmp\SBF217102803_720320191226_288000021900000547_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Thu Dec 26 22:20:35 2019
+Владелец: CN=FNS,O=FNS,ST=00
+Хэш: EA:8E:16:6E:68:26:01:0E:D2:3E:1B:6F:97:6C:BE:76:57:53:78:D9:DA:00:E0:6F:AC:90:75:F8:62:93:29:F4
+
+Текущее время: Sat Dec 28 22:53:28 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR017102803_720320191224_288000021900000544_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
+Текущее время: Sat Dec 28 22:53:29 2019
+"C:\Program Files\MDPREI\spki\spki1utl.exe" -verify -delete -1 -profile r2880_2 -registry -in "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML" -out "D:\SKAD\311Kvit\tmp\SBR217102803_720320191224_288000021900000545_100.XML.test" -silent D:\SKAD\311Kvit\log\28122019_spki_tr.log 
+Инициализация
+Проверка ЭП файла
+Результат: OK (00000000)
+ЭП 1: OK (00000000)
+Wed Dec 25 20:49:07 2019
+Владелец: CN=FSS,ST=00
+Хэш: 08:09:44:58:90:E7:91:4F:7B:72:81:9E:A1:3A:73:4F:F3:10:2F:2F:93:C0:39:F1:A2:33:AB:31:2A:1C:B2:31
+
