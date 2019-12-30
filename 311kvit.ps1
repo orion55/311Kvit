@@ -10,7 +10,7 @@ $curDir = Split-Path -Path $myInvocation.MyCommand.Path -Parent
 . $lib/libs.ps1
 . $lib/311lib.ps1
 
-Set-Location $curDir
+#Set-Location $curDir
 Clear-Host
 
 [boolean]$flag311Fiz = $false
@@ -101,7 +101,7 @@ sendEmail
 Write-Log -EntryType Information -Message "Загружаем исходную ключевую дискету"
 Remove-Item 'a:' -Recurse -ErrorAction "SilentlyContinue"
 copyDirs -from $tmpKeys -to 'a:'
-Remove-Item $tmpKeys -Recurse -Force
+#Remove-Item $tmpKeys -Recurse -Force
 
 Write-Log -EntryType Information -Message "Завершение обработки..."
 

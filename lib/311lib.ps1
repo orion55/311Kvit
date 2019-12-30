@@ -41,7 +41,7 @@ function 311FizHandler {
 	$tmpDir = getTmpDir
 
 	Write-Log -EntryType Information -Message "Разархивация файла $file"
-	$argList = "e -y $($file.FullName) $tmpDir"
+	$argList = "e -y ""$($file.FullName)"" $tmpDir"
 	Start-Process -FilePath $arj32 -ArgumentList $argList -Wait -NoNewWindow
 
 	$tmpFiles = Get-ChildItem "$tmpDir\*.xml"
@@ -123,7 +123,7 @@ function 311JurHandler {
 	$tmpDir = getTmpDir
 
 	Write-Log -EntryType Information -Message "Разархивация файла $file"
-	$argList = "e -y $($file.FullName) $tmpDir"
+	$argList = "e -y ""$($file.FullName)"" $tmpDir"
 	Start-Process -FilePath $arj32 -ArgumentList $argList -Wait -NoNewWindow
 
 	$tmpFiles = Get-ChildItem "$tmpDir\*.xml"
@@ -201,7 +201,7 @@ function sendEmail {
 		}
 		if ($311Fiz.errCount -gt 0) {
 			$body += "Пришли подтверждения с ошибками - $($311Fiz.errCount) шт.`n"
-			$body += "Потверждения находятся в каталоге $kvit311ArchiveErr`n"
+			$body += "Потверждения находятся в каталоге $kvit311ArchiveErr `n"
 			$body += "`n"
 			$title = "Пришли подтверждения с ошибками по 311-Физ"
 		}
@@ -219,13 +219,13 @@ function sendEmail {
 		$body = ''
 		if ($311Jur.sucCount -gt 0) {
 			$body += "Пришли успешные подтверждения - $($311Jur.sucCount) шт.`n"
-			$body += "Потверждения находятся в каталоге $kvit311Archive`n"
+			$body += "Потверждения находятся в каталоге $kvit311JurArchive `n"
 			$body += "`n"
 			$title = "Пришли подтверждения по 311-Юр"
 		}
 		if ($311Jur.errCount -gt 0) {
 			$body += "Пришли подтверждения с ошибками - $($311Jur.errCount) шт.`n"
-			$body += "Потверждения находятся в каталоге $kvit311ArchiveErr`n"
+			$body += "Потверждения находятся в каталоге $kvit311JurArchiveErr `n"
 			$body += "`n"
 			$title = "Пришли подтверждения с ошибками по 311-Юр"
 		}
@@ -250,5 +250,6 @@ function getTmpDir {
 		Remove-Item $tmpDir -Force -Recurse
 		New-Item -ItemType directory $tmpDir -Force | out-null
 	}
+    Set-Location $tmpDir
 	return $tmpDir
 }
