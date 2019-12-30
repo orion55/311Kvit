@@ -55,15 +55,6 @@ if ($count -eq 0) {
 
 Write-Log -EntryType Information -Message "Начинаем обработку..."
 
-$tmpDir = "$curDir\tmp"
-if (!(Test-Path -Path $tmpDir )) {
-	New-Item -ItemType directory $tmpDir -Force | out-null
-}
-else {
-	Remove-Item $tmpDir -Force -Recurse
-	New-Item -ItemType directory $tmpDir -Force | out-null
-}
-
 #проверяем есть ли диск А
 $disks = (Get-PSDrive -PSProvider FileSystem).Name
 if ($disks -notcontains "a") {

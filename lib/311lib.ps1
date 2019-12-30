@@ -37,6 +37,9 @@ function init311Fiz {
 }
 function 311FizHandler {
 	Param($file)
+
+	$tmpDir = getTmpDir
+
 	Write-Log -EntryType Information -Message "Разархивация файла $file"
 	$argList = "e -y $($file.FullName) $tmpDir"
 	Start-Process -FilePath $arj32 -ArgumentList $argList -Wait -NoNewWindow
@@ -116,6 +119,8 @@ function 311JurHandler {
 	elseif ($file -match $311MaskJur2) {
 		$typeFile = 'S0'
 	}
+
+	$tmpDir = getTmpDir
 
 	Write-Log -EntryType Information -Message "Разархивация файла $file"
 	$argList = "e -y $($file.FullName) $tmpDir"
@@ -234,4 +239,16 @@ function sendEmail {
 		}
 		Write-Log -EntryType Information -Message $body
 	}
+}
+
+function getTmpDir {
+	$tmpDir = "$curDir\tmp"
+	if (!(Test-Path -Path $tmpDir )) {
+		New-Item -ItemType directory $tmpDir -Force | out-null
+	}
+	else {
+		Remove-Item $tmpDir -Force -Recurse
+		New-Item -ItemType directory $tmpDir -Force | out-null
+	}
+	return $tmpDir
 }
