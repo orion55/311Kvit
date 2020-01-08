@@ -15,18 +15,20 @@ function copyDirs {
 	} -Force
 }
 
-function init311Fiz {
+function init311Fiz {    
 	$curDate = Get-Date -Format "ddMMyyyy"
-
-	[string]$global:cur311Archive = $311Archive + '\' + $curDate
+    $curDir = $(Get-Location).Path
+    #. $curDir/variables.ps1
+	
+    [string]$global:cur311Archive = $311Archive + '\' + $curDate
 	if (!(Test-Path -Path $global:cur311Archive )) {
 		New-Item -ItemType directory $global:cur311Archive -Force | out-null
 	}
 
-	[string]$global:kvit311Archive = $cur311Archive + '\' + 'KVIT'
+	[string]$global:kvit311Archive = $global:cur311Archive + '\' + 'KVIT'
 	if (!(Test-Path -Path $global:kvit311Archive )) {
 		New-Item -ItemType directory $global:kvit311Archive -Force | out-null
-	}
+	}    
 
 	[string]$global:kvit311ArchiveMsk = $311DirKvit + '\' + $curDate
 	if (!(Test-Path -Path $global:kvit311ArchiveMsk )) {
@@ -75,20 +77,26 @@ function 311FizHandler {
 				Write-Log -EntryType Error -Message $msg
 			}
 		}
-		if ($sucCount -gt 0) {
-			$msg = Copy-Item -Path "$tmpDir\SFF*.xml" -Destination $kvit311Archive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
-			Write-Log -EntryType Information -Message ($msg | Out-String)
+		if ($sucCount -gt 0) {            
+			$msg = Copy-Item -Path "$tmpDir\SFF*.xml" -Destination $global:kvit311Archive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1            
+            if ($msg -eq $null){
+                Write-Log -EntryType Error -Message "Ошибка при копировании файлов SFF*.xml в $global:kvit311Archive"
+            } else {
+			    Write-Log -EntryType Information -Message ($msg | Out-String)
+            }
 		}
 		if ($errCount -gt 0) {
 			[string]$global:kvit311ArchiveErr = $cur311Archive + '\' + 'KVITERR'
-			if (!(Test-Path -Path $kvit311ArchiveErr )) {
-				New-Item -ItemType directory $kvit311ArchiveErr -Force | out-null
+			if (!(Test-Path -Path $global:kvit311ArchiveErr )) {
+				New-Item -ItemType directory $global:kvit311ArchiveErr -Force | out-null
 			}
-			$msg = Copy-Item -Path "$tmpDir\SFE*.xml" -Destination $kvit311ArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+			$msg = Copy-Item -Path "$tmpDir\SFE*.xml" -Destination $global:kvit311ArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
 			Write-Log -EntryType Information -Message ($msg | Out-String)
 		}
-		$msg = Move-Item -Path "$tmpDir\SF*.xml" -Destination $kvit311ArchiveMsk -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
-		Write-Log -EntryType Information -Message ($msg | Out-String)
+        if (Test-Path -Path $global:kvit311ArchiveMsk){
+		    $msg = Move-Item -Path "$tmpDir\SF*.xml" -Destination $global:kvit311ArchiveMsk -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+		    Write-Log -EntryType Information -Message ($msg | Out-String)
+        }
 	}
 	else {
 		Write-Log -EntryType Error -Message "Ошибка при разархивация файла $($file.FullName)"
@@ -96,13 +104,16 @@ function 311FizHandler {
 }
 function init311Jur {
 	$curDate = Get-Date -Format "ddMMyyyy"
-
-	[string]$global:cur311JurArchive = $311JurArchive + '\' + $curDate
+    
+    $curDir = $(Get-Location).Path
+    #. $curDir/variables.ps1
+	
+    [string]$global:cur311JurArchive = $311JurArchive + '\' + $curDate
 	if (!(Test-Path -Path $global:cur311JurArchive )) {
-		New-Item -ItemType directory $cur311JurArchive -Force | out-null
+		New-Item -ItemType directory $global:cur311JurArchive -Force | out-null
 	}
 
-	[string]$global:kvit311JurArchive = $cur311JurArchive + '\' + 'KVIT'
+	[string]$global:kvit311JurArchive = $global:cur311JurArchive + '\' + 'KVIT'
 	if (!(Test-Path -Path $global:kvit311JurArchive )) {
 		New-Item -ItemType directory $global:kvit311JurArchive -Force | out-null
 	}
@@ -172,16 +183,16 @@ function 311JurHandler {
 			}
 		}
 		if ($311Jur.errFiles.Length -gt 0) {
-			[string]$global:kvit311JurArchiveErr = $cur311JurArchive + '\' + 'KVITERR'
+			[string]$global:kvit311JurArchiveErr = $global:cur311JurArchive + '\' + 'KVITERR'
 			if (!(Test-Path -Path $global:kvit311JurArchiveErr )) {
 				New-Item -ItemType directory $global:kvit311JurArchiveErr -Force | out-null
 			}
-			$msg = $311Jur.errFiles | Move-Item -Destination $kvit311JurArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+			$msg = $311Jur.errFiles | Move-Item -Destination $global:kvit311JurArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
 			Write-Log -EntryType Information -Message ($msg | Out-String)
 			$311Jur.errFiles = @()
 		}
 		if ($311Jur.sucCount -gt 0) {
-			$msg = Move-Item -Path "$tmpDir\*.xml" -Destination $kvit311JurArchive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+			$msg = Move-Item -Path "$tmpDir\*.xml" -Destination $global:kvit311JurArchive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
 			Write-Log -EntryType Information -Message ($msg | Out-String)
 		}
 	}
@@ -242,12 +253,14 @@ function sendEmail {
 }
 
 function getTmpDir {
+    $curDir = $(Get-Location).Path    
 	$tmpDir = "$curDir\tmp"
+    
 	if (!(Test-Path -Path $tmpDir )) {
 		New-Item -ItemType directory $tmpDir -Force | out-null
 	}
 	else {
-		Remove-Item $tmpDir -Force -Recurse
+		Remove-Item $tmpDir -Force -Recurse -ErrorAction SilentlyContinue
 		New-Item -ItemType directory $tmpDir -Force | out-null
 	}
     Set-Location $tmpDir

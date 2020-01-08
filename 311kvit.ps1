@@ -81,7 +81,7 @@ ForEach ($file in $findFiles) {
 		}
 		311FizHandler -file $file
 
-		$msg = Move-Item -Path $($file.FullName) -Destination $cur311Archive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+		$msg = Move-Item -Path $($file.FullName) -Destination $global:cur311Archive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
 		Write-Log -EntryType Information -Message ($msg | Out-String)
 	}
 	if (($file -match $311MaskJur) -or ($file -match $311MaskJur2)) {
@@ -90,20 +90,22 @@ ForEach ($file in $findFiles) {
 		}
 		311JurHandler -file $file
 
-		$msg = Move-Item -Path $($file.FullName) -Destination $cur311JurArchive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+		$msg = Move-Item -Path $($file.FullName) -Destination $global:cur311JurArchive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
 		Write-Log -EntryType Information -Message ($msg | Out-String)
 	}
 }
 
 sendEmail
-#Remove-Item $tmpDir -Force -Recurse
+Remove-Item $tmpDir -Force -Recurse -ErrorAction SilentlyContinue
 
 Write-Log -EntryType Information -Message "Загружаем исходную ключевую дискету"
 Remove-Item 'a:' -Recurse -ErrorAction "SilentlyContinue"
 copyDirs -from $tmpKeys -to 'a:'
-#Remove-Item $tmpKeys -Recurse -Force
+Remove-Item $tmpKeys -Recurse -Force
 
 Write-Log -EntryType Information -Message "Завершение обработки..."
+
+Set-Location $curDir
 
 Stop-FileLog
 Stop-HostLog
