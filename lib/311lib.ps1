@@ -15,11 +15,11 @@ function copyDirs {
 	} -Force
 }
 
-function init311Fiz {    
+function init311Fiz {
 	$curDate = Get-Date -Format "ddMMyyyy"
     $curDir = $(Get-Location).Path
     #. $curDir/variables.ps1
-	
+
     [string]$global:cur311Archive = $311Archive + '\' + $curDate
 	if (!(Test-Path -Path $global:cur311Archive )) {
 		New-Item -ItemType directory $global:cur311Archive -Force | out-null
@@ -28,7 +28,7 @@ function init311Fiz {
 	[string]$global:kvit311Archive = $global:cur311Archive + '\' + 'KVIT'
 	if (!(Test-Path -Path $global:kvit311Archive )) {
 		New-Item -ItemType directory $global:kvit311Archive -Force | out-null
-	}    
+	}
 
 	[string]$global:kvit311ArchiveMsk = $311DirKvit + '\' + $curDate
 	if (!(Test-Path -Path $global:kvit311ArchiveMsk )) {
@@ -50,8 +50,10 @@ function 311FizHandler {
 	[int]$allCount = ($tmpFiles | Measure-Object).Count
 	if ($allCount -gt 0) {
 		$311Fiz.allCount += $allCount
-		[int]$errCount = (Get-ChildItem "$tmpDir\SFE*.xml" | Measure-Object).Count
-		$311Fiz.errCount = $errCount
+		[int]$errCountSFE = (Get-ChildItem "$tmpDir\SFE*.xml" | Measure-Object).Count
+		[int]$errCountSFK = (Get-ChildItem "$tmpDir\SFK*.xml" | Measure-Object).Count
+		$errCount = $errCountSFE + $errCountSFK
+		$311Fiz.errCount += $errCount
 		[int]$sucCount = (Get-ChildItem "$tmpDir\SFF*.xml" | Measure-Object).Count
 		$311Fiz.sucCount += $sucCount
 
@@ -77,8 +79,8 @@ function 311FizHandler {
 				Write-Log -EntryType Error -Message $msg
 			}
 		}
-		if ($sucCount -gt 0) {            
-			$msg = Copy-Item -Path "$tmpDir\SFF*.xml" -Destination $global:kvit311Archive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1            
+		if ($sucCount -gt 0) {
+			$msg = Copy-Item -Path "$tmpDir\SFF*.xml" -Destination $global:kvit311Archive -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
             if ($msg -eq $null){
                 Write-Log -EntryType Error -Message "Ошибка при копировании файлов SFF*.xml в $global:kvit311Archive"
             } else {
@@ -90,8 +92,14 @@ function 311FizHandler {
 			if (!(Test-Path -Path $global:kvit311ArchiveErr )) {
 				New-Item -ItemType directory $global:kvit311ArchiveErr -Force | out-null
 			}
-			$msg = Copy-Item -Path "$tmpDir\SFE*.xml" -Destination $global:kvit311ArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
-			Write-Log -EntryType Information -Message ($msg | Out-String)
+			if ($errCountSFE -gt 0){
+				$msg = Copy-Item -Path "$tmpDir\SFE*.xml" -Destination $global:kvit311ArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+				Write-Log -EntryType Information -Message ($msg | Out-String)
+			}
+			if ($errCountSFK -gt 0){
+				$msg = Copy-Item -Path "$tmpDir\SFK*.xml" -Destination $global:kvit311ArchiveErr -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
+				Write-Log -EntryType Information -Message ($msg | Out-String)
+			}
 		}
         if (Test-Path -Path $global:kvit311ArchiveMsk){
 		    $msg = Move-Item -Path "$tmpDir\SF*.xml" -Destination $global:kvit311ArchiveMsk -ErrorAction "SilentlyContinue" -Verbose -Force *>&1
@@ -104,10 +112,10 @@ function 311FizHandler {
 }
 function init311Jur {
 	$curDate = Get-Date -Format "ddMMyyyy"
-    
+
     $curDir = $(Get-Location).Path
     #. $curDir/variables.ps1
-	
+
     [string]$global:cur311JurArchive = $311JurArchive + '\' + $curDate
 	if (!(Test-Path -Path $global:cur311JurArchive )) {
 		New-Item -ItemType directory $global:cur311JurArchive -Force | out-null
@@ -206,13 +214,13 @@ function sendEmail {
 		$body = ''
 		if ($311Fiz.sucCount -gt 0) {
 			$body += "Пришли успешные подтверждения - $($311Fiz.sucCount) шт.`n"
-			$body += "Потверждения находятся в каталоге $kvit311Archive`n"
+			$body += "Потверждения находятся в каталоге $global:kvit311Archive`n"
 			$body += "`n"
 			$title = "Пришли подтверждения по 311-Физ"
 		}
 		if ($311Fiz.errCount -gt 0) {
 			$body += "Пришли подтверждения с ошибками - $($311Fiz.errCount) шт.`n"
-			$body += "Потверждения находятся в каталоге $kvit311ArchiveErr `n"
+			$body += "Потверждения находятся в каталоге $global:kvit311ArchiveErr `n"
 			$body += "`n"
 			$title = "Пришли подтверждения с ошибками по 311-Физ"
 		}
@@ -230,13 +238,13 @@ function sendEmail {
 		$body = ''
 		if ($311Jur.sucCount -gt 0) {
 			$body += "Пришли успешные подтверждения - $($311Jur.sucCount) шт.`n"
-			$body += "Потверждения находятся в каталоге $kvit311JurArchive `n"
+			$body += "Потверждения находятся в каталоге $global:kvit311JurArchive `n"
 			$body += "`n"
 			$title = "Пришли подтверждения по 311-Юр"
 		}
 		if ($311Jur.errCount -gt 0) {
 			$body += "Пришли подтверждения с ошибками - $($311Jur.errCount) шт.`n"
-			$body += "Потверждения находятся в каталоге $kvit311JurArchiveErr `n"
+			$body += "Потверждения находятся в каталоге $global:kvit311JurArchiveErr `n"
 			$body += "`n"
 			$title = "Пришли подтверждения с ошибками по 311-Юр"
 		}
@@ -253,9 +261,9 @@ function sendEmail {
 }
 
 function getTmpDir {
-    $curDir = $(Get-Location).Path    
+    $curDir = $(Get-Location).Path
 	$tmpDir = "$curDir\tmp"
-    
+
 	if (!(Test-Path -Path $tmpDir )) {
 		New-Item -ItemType directory $tmpDir -Force | out-null
 	}

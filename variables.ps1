@@ -4,6 +4,7 @@
 #рабочий временный каталог
 [string]$tmp = "$curDir\temp"
 [string]$arj32 ="$curDir\util\arj32.exe"
+[string]$tmpDir = "$curDir\tmp"
 
 #каталог с извещениями
 [string]$noticePath = "$tmp\OUT"
